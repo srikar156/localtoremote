@@ -4,3 +4,5 @@ This is a trail for commit message default editor.
 this the test after .config delete.
 this is second time revision. 
 this test is take after the change of usre name to srikar512 and the emial is changed to ksqrr@yahoo.co.in 
+test agin with the name change to srikar156
+
